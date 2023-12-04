@@ -18,7 +18,7 @@ function FormLogin() {
             <p id="senhaverificated" style={{color: 'red'}}></p>
           </div>
           <div id="criarconta-div-input">
-            <a href='http://localhost:3000/formcreatelogin'>Criar conta</a>
+            <a href='/formcreatelogin'>Criar conta</a>
           </div>
           <div id="botao-div">
           <button id="botao">Enviar</button>
